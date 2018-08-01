@@ -1,5 +1,7 @@
 # Quiz App
-Learn to make iOS Apps with [Chinmay Patel]📱 | chinmaypatel1112/Quiz-App | (Swift 4.1/Xcode 9.4.1) - Quiz App
+(Swift 4.1/Xcode 9.4.1) - Quiz App
+
+Learn to make iOS Apps with [Chinmay Patel]📱 | https://github.com/chinmaypatel1112 
 
 
 ## Quiz Text Strings
